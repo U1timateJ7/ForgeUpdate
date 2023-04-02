@@ -1,6 +1,9 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/into-the-multiverse",
   "promos": {
-    "1.19.3-latest": "0.1.0-alpha.7"
+    "1.19.3-latest": "0.1.0"
+    "1.19.3-recommended": "0.1.0"
+    "1.19.4-latest": "0.1.0"
+    "1.19.4-recommended": "0.1.0"
   }
 }
