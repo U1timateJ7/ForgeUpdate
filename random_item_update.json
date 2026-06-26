@@ -1,6 +1,7 @@
 {
   "homepage": "https://modrinth.com/mod/random-items",
   "promos": {
+    "1.20-recommended": "1.5.1",
     "1.20.1-recommended": "1.5.1",
     "1.20.3-recommended": "1.5.1",
     "1.20.4-recommended": "1.5.1",
